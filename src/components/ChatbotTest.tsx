@@ -66,7 +66,7 @@ export function ChatbotTest( {onComplete }: ChatbotIntegrationProps) {
   };
 
   return (
-    <div className="fixed bottom-4 right-4 w-96 h-[600px] bg-white dark:bg-gray-800 rounded-lg shadow-xl flex flex-col">
+    <div className=" bottom-4 right-4 w-96 h-[600px] bg-white dark:bg-gray-800 rounded-lg shadow-xl flex flex-col">
       <div className="p-4 border-b dark:border-gray-700">
         <h3 className="text-lg font-semibold text-gray-900 dark:text-white">BeyondChats Test</h3>
         <p className="text-sm text-gray-500 dark:text-gray-400">Test your chatbot configuration</p>
